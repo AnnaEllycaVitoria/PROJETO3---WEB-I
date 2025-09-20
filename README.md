@@ -14,3 +14,5 @@ Praticar a criação de páginas temáticas com navegação por links de âncora
 - Lista de ingredientes com `<ul>`.  
 - Navegação entre partes da página usando `<nav>` e links de âncora.  
 - Informações adicionais organizadas em `<aside>`.  
+
+-[Para acessar o site](https://annaellycavitoria.github.io/PROJETO3---WEB-I/)
